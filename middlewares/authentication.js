@@ -20,3 +20,5 @@ function checkForAuthenticationCookie(cookieName){
 }
 
 module.exports = {checkForAuthenticationCookie};
+
+//This is a comment
